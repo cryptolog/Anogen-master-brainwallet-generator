@@ -1,0 +1,16 @@
+Passphrases: abilities
+address: 14tGrPnSB7L6QSzxvSr5boVK7ULbdNgKNr
+private key: cfae417a8bcd2cfe163182bed6d7b730a0c57140cf27d4d0dd14fe2fc47b7c54
+salt password: 
+WIF private key: b'5KPkWJ9BgBWWrGMzuqhuNXZpTUtNdEqvPsoo3WuWSmQeQwU3V9n'
+public key: 04e2ed37bb576f9b9b438d928723f9cae14dfecbc83a26c4844a103e0ad6bb9a2ebba110abeb8a89699762e28560c4cfcc2e19df511b2f5eb865b270650f6eb318
+Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
+
+Passphrases: abilities123456
+address: 1KbrweES1FHq6misNdmtKiqKqu16b6ZQum
+private key: 47c6dd73bf298f86a74ebafa3d3b686a7d2f28d0c8400a081e873f18a5fb9724
+salt password: 123456
+WIF private key: b'5JMu2LqSs1Q3TWCZTuRSJAzvc6y9z3L4dX2UuUQgB9h7t1Xp3Wi'
+public key: 04ffbe1f5c970cbbfb142cd3e5eabbceede60257feb8e395354dd66032afced4245ad7a1134d098f1b4311153a954a40e30fa533eae1b3f75b55bce732f281a26c
+Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
+
