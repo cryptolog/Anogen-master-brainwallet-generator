@@ -45,16 +45,18 @@ $ python anogen.py
 
 # Proof of Concept
 
-This program create from passphrase privatekey, publickey,address and WIF, for more secure wallet u can use salt 
-as a password.
+This program create from passphrase privatekey, publickey,address and WIF, for more secure wallet u can use 
+salt as a password.
 
-Although this project can be used maliciously, it is simply an exploration into the Bitcoin protocol and advanced encryption and hashing techniques using Python.
+Although this project can be used maliciously, it is simply an exploration into the Bitcoin protocol and advanced 
+encryption and hashing techniques using Python.
 
 #
 
 # How it Works
 
-From passphrase is generated privatekey, from private key publickey, from publickey address and final from privatekey WIF.
+From passphrase is generated privatekey, from private key publickey, from publickey address and final from privatekey 
+WIF.
 
 #
 
