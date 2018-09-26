@@ -2,15 +2,10 @@
 # Made by Ano.mobb
 
 
-# Anogen 
-
-offline-brainwallet-generator<br/>
-
-#
-
+# Anogen
 ```
 
-
+offline-brainwallet-generator
 
 
 Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
@@ -26,7 +21,7 @@ Donate to the author of this program: 1GmQaG9R5NPs3ZzR6XPMD9jZk17F9MuoWn
 Installation: 
 
 ```
-$ git clone https://github.com/mobb111/anogen-master
+$ git clone https://github.com/mobb111/Anogen-master-brainwallet-generator
 
 $ cd anogen-master
 
